@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Arif Mahmud",
+    "photo": "https://via.placeholder.com/250x250",
+    "registrations": [
+      "BMDC Registration No: DMC-45231",
+      "Member – Bangladesh Cardiac Society",
+      "Member – Asia Pacific Heart Association",
+      "Certified in ACLS & BLS",
+      "Registered Interventional Cardiologist",
+      "Member – European Society of Cardiology"
+    ],
+    "speciality": [
+      "Heart Disease & Chest Pain",
+      "High Blood Pressure Management",
+      "Cardiac Catheterization",
+      "ECG & ECHO Specialist",
+      "Heart Failure Treatment",
+      "Coronary Artery Disease Specialist"
+    ],
+    "education": {
+      "degrees": [
+        {
+          "title": "MBBS",
+          "institution": "Dhaka Medical College",
+          "year": 2010
+        },
+        { "title": "FCPS (Cardiology)", "institution": "BCPS", "year": 2015 }
+      ],
+      "trainings": [
+        "Advanced Cardiac Life Support (ACLS)",
+        "Fellowship in Interventional Cardiology – Apollo Hospital",
+        "ECHO & Doppler Advanced Training"
+      ]
+    },
+    "hospital": "Dhaka Heart Institute",
+    "about": "Dr. Arif has 12+ years of experience in complex cardiac diseases, angioplasty and long-term heart care. Known for accuracy and patient-friendly care.",
+    "availableLocation": ["Uttara Branch", "Dhanmondi Branch", "Mirpur Branch"],
+    "fee": 800,
+    "awardsAndCertificates": [
+      "Best Cardiologist Award – 2021",
+      "Gold Medal in Cardiology Research – 2019",
+      "Certificate in Cardiovascular Imaging",
+      "Patient Care Excellence Award – 2023"
+    ],
+    "days": ["Sun", "Tue", "Fri"],
+    "email": "arif.mahmud@example.com",
+    "phone": "+8801711004400"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Shaila Khan",
+    "photo": "https://via.placeholder.com/250x250",
+    "registrations": [
+      "BMDC Registration No: SSMC-33221",
+      "Member – Obstetrics & Gynecology Society",
+      "Certified in Maternal Health Care",
+      "Member – Asian Women Health Association",
+      "Advanced Training in Infertility",
+      "Member – Bangladesh Medical Council"
+    ],
+    "speciality": [
+      "High-risk Pregnancy",
+      "Normal & Cesarean Delivery",
+      "Infertility Treatment",
+      "PCOS & Hormonal Disorders",
+      "Ultrasound & Pregnancy Scan",
+      "Postnatal Care"
+    ],
+    "education": {
+      "degrees": [
+        { "title": "MBBS", "institution": "SSMC", "year": 2009 },
+        { "title": "FCPS (Gynae & Obs)", "institution": "BCPS", "year": 2016 }
+      ],
+      "trainings": [
+        "Maternal Health Training – Singapore",
+        "Infertility Advanced Course",
+        "Ultrasound & Fetal Monitoring Certification"
+      ]
+    },
+    "hospital": "Popular Diagnostic Center – Dhanmondi",
+    "about": "12+ years experienced gynecologist specializing in pregnancy care, infertility and women's health.",
+    "availableLocation": ["Dhanmondi", "Shyamoli"],
+    "fee": 700,
+    "awardsAndCertificates": [
+      "Women Health Excellence Award – 2020",
+      "Best Gynae Specialist – 2022"
+    ],
+    "days": ["Sat", "Mon", "Wed"],
+    "email": "shaila.khan@example.com",
+    "phone": "+8801711002200"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Kamrul Hasan",
+    "photo": "https://via.placeholder.com/250x250",
+    "registrations": [
+      "BMDC Registration No: CMC-44120",
+      "Member – Bangladesh Orthopedic Doctors Association",
+      "Certified in Trauma Care",
+      "Fellowship in Arthroscopy",
+      "Member – Asia Pacific Orthopedic Forum",
+      "Registered Orthopedic Consultant"
+    ],
+    "speciality": [
+      "Bone & Joint Pain",
+      "Arthroscopy Surgery",
+      "Sports Injury Treatment",
+      "Fracture & Trauma Care",
+      "Spine Disorders",
+      "Joint Replacement Surgery"
+    ],
+    "education": {
+      "degrees": [
+        {
+          "title": "MBBS",
+          "institution": "Chittagong Medical College",
+          "year": 2011
+        },
+        { "title": "MS (Orthopedics)", "institution": "BSMMU", "year": 2017 }
+      ],
+      "trainings": [
+        "Arthroscopy Training – Malaysia",
+        "Trauma Management Course",
+        "Advanced Orthopedic Surgical Workshop"
+      ]
+    },
+    "hospital": "United Hospital, Dhaka",
+    "about": "Experienced orthopedic surgeon with expertise in joint replacement, sports injuries and trauma care.",
+    "availableLocation": ["United Hospital Gulshan", "Labaid Dhanmondi"],
+    "fee": 1000,
+    "awardsAndCertificates": ["Orthopedic Excellence Award – 2022"],
+    "days": ["Sun", "Tue", "Fri"],
+    "email": "kamrul.hasan@example.com",
+    "phone": "+8801711003300"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Nusrat Hossain",
+    "photo": "https://via.placeholder.com/250x250",
+    "registrations": [
+      "BMDC Registration No: RMC-55321",
+      "Member – Bangladesh Dermatology Society",
+      "Laser Treatment Certified",
+      "Dermatology Clinical Training",
+      "Cosmetic Specialist",
+      "Registered Dermatologist"
+    ],
+    "speciality": [
+      "Skin Allergy",
+      "Acne & Scar Treatment",
+      "Laser Facial",
+      "Hair Fall Treatment",
+      "Eczema & Psoriasis",
+      "Skin Whitening Treatment"
+    ],
+    "education": {
+      "degrees": [
+        {
+          "title": "MBBS",
+          "institution": "Rajshahi Medical College",
+          "year": 2012
+        },
+        { "title": "DDV (Dermatology)", "institution": "BSMMU", "year": 2018 }
+      ],
+      "trainings": [
+        "Advanced Cosmetic Laser Training",
+        "Hair & Scalp Treatment Course"
+      ]
+    },
+    "hospital": "Evercare Hospital, Dhaka",
+    "about": "Skin & laser specialist with expertise in aesthetic dermatology and chronic skin issues.",
+    "availableLocation": ["Bashundhara Branch", "Banani Skin Care"],
+    "fee": 900,
+    "awardsAndCertificates": ["Best Dermatologist – 2021"],
+    "days": ["Mon", "Thu"],
+    "email": "nusrat.hossain@example.com",
+    "phone": "+8801711006600"
+  },
+
+  {
+    "id": 5,
+    "name": "Dr. Rafiq Ahmed",
+    "photo": "https://via.placeholder.com/250x250",
+    "registrations": [
+      "BMDC Registration No: DMC-61233",
+      "Member – Bangladesh Neurology Association",
+      "Certified Stroke Specialist",
+      "EEG & EMG Certified",
+      "International Movement Disorder Member",
+      "Registered Neurologist"
+    ],
+    "speciality": [
+      "Stroke Management",
+      "Migraine & Headache Treatment",
+      "Nerve Disorder Treatment",
+      "Epilepsy Treatment",
+      "Movement Disorders",
+      "Brain & Spine Problems"
+    ],
+    "education": {
+      "degrees": [
+        {
+          "title": "MBBS",
+          "institution": "Dhaka Medical College",
+          "year": 2010
+        },
+        { "title": "MD (Neurology)", "institution": "BSMMU", "year": 2016 }
+      ],
+      "trainings": ["Stroke Rehabilitation Training", "Advanced EMG/EEG Course"]
+    },
+    "hospital": "Ibn Sina Hospital, Dhanmondi",
+    "about": "Neurology specialist with long experience in brain, nerve and stroke treatment.",
+    "availableLocation": ["Dhanmondi", "Lalbagh"],
+    "fee": 1100,
+    "awardsAndCertificates": ["Neurology Research Award – 2020"],
+    "days": ["Sat", "Mon", "Tue"],
+    "email": "rafiq.ahmed@example.com",
+    "phone": "+8801711007700"
+  },
+
+  {
+    "id": 6,
+    "name": "Dr. Farzana Sultana",
+    "photo": "https://via.placeholder.com/250x250",
+    "registrations": [
+      "BMDC Registration No: KMC-22341",
+      "Member – Bangladesh Pediatrics Society",
+      "Newborn Care Specialist",
+      "Certified Vaccination Expert",
+      "Registered Child Consultant",
+      "Child Nutrition Specialist"
+    ],
+    "speciality": [
+      "Child Nutrition",
+      "Newborn Care",
+      "Child Allergy Treatment",
+      "Vaccination",
+      "Growth & Development Issues",
+      "Pediatric Infections"
+    ],
+    "education": {
+      "degrees": [
+        {
+          "title": "MBBS",
+          "institution": "Khulna Medical College",
+          "year": 2011
+        },
+        { "title": "FCPS (Pediatrics)", "institution": "BCPS", "year": 2017 }
+      ],
+      "trainings": [
+        "Neonatal Care Program",
+        "Child Development Advanced Course"
+      ]
+    },
+    "hospital": "Dhaka Medical College (Child Department)",
+    "about": "Experienced pediatric specialist providing newborn care, vaccination and child health support.",
+    "availableLocation": ["DMC", "Malibagh"],
+    "fee": 700,
+    "awardsAndCertificates": ["Child Health Excellence Award – 2018"],
+    "days": ["Sun", "Tue", "Wed"],
+    "email": "farzana.sultana@example.com",
+    "phone": "+8801711008800"
+  },
+
+  {
+    "id": 7,
+    "name": "Dr. Tanvir Rahman",
+    "photo": "https://via.placeholder.com/250x250",
+    "registrations": [
+      "BMDC Registration No: DMC-55129",
+      "Member – Bangladesh Surgical Society",
+      "Certified Laparoscopic Surgeon",
+      "Hernia Surgery Certified",
+      "Member – International Surgical Forum",
+      "Registered General Surgeon"
+    ],
+    "speciality": [
+      "Laparoscopic Surgery",
+      "Appendix Operation",
+      "Gallbladder Surgery",
+      "Hernia Repair",
+      "Minor Surgical Procedures",
+      "General Surgery Consultation"
+    ],
+    "education": {
+      "degrees": [
+        {
+          "title": "MBBS",
+          "institution": "Dhaka Medical College",
+          "year": 2009
+        },
+        { "title": "FCPS (Surgery)", "institution": "BCPS", "year": 2016 }
+      ],
+      "trainings": [
+        "Laparoscopic Surgery Training",
+        "Advanced Hernia Repair Workshop"
+      ]
+    },
+    "hospital": "Labaid Hospital",
+    "about": "Expert general & laparoscopic surgeon with 10+ years experience.",
+    "availableLocation": ["Labaid Dhanmondi", "Labaid Mirpur"],
+    "fee": 1200,
+    "awardsAndCertificates": ["Surgery Excellence Award – 2019"],
+    "days": ["Mon", "Thu", "Fri"],
+    "email": "tanvir.rahman@example.com",
+    "phone": "+8801711009900"
+  },
+
+  {
+    "id": 8,
+    "name": "Dr. Sabrina Alam",
+    "photo": "https://via.placeholder.com/250x250",
+    "registrations": [
+      "BMDC Registration No: RMC-44821",
+      "Member – ENT Society of Bangladesh",
+      "Certified Hearing Test Expert",
+      "Sinusitis Treatment Training",
+      "ENT Surgical Certified",
+      "Registered ENT Consultant"
+    ],
+    "speciality": [
+      "Hearing Loss Treatment",
+      "Sinusitis Management",
+      "Tonsillitis Treatment",
+      "Allergy Treatment",
+      "Nose & Throat Infection",
+      "Ear Surgery"
+    ],
+    "education": {
+      "degrees": [
+        {
+          "title": "MBBS",
+          "institution": "Rajshahi Medical College",
+          "year": 2012
+        },
+        { "title": "MS (ENT)", "institution": "BSMMU", "year": 2018 }
+      ],
+      "trainings": [
+        "Sinus Surgery Special Training",
+        "Hearing & Balance Therapy Course"
+      ]
+    },
+    "hospital": "BSMMU",
+    "about": "ENT specialist with expertise in sinus, ear surgery and throat diseases.",
+    "availableLocation": ["BSMMU", "Uttara ENT Care"],
+    "fee": 900,
+    "awardsAndCertificates": ["ENT Specialist Award – 2023"],
+    "days": ["Sat", "Mon"],
+    "email": "sabrina.alam@example.com",
+    "phone": "+8801711011100"
+  },
+
+  {
+    "id": 9,
+    "name": "Dr. Abdullah Noor",
+    "photo": "https://via.placeholder.com/250x250",
+    "registrations": [
+      "BMDC Registration No: DMC-77239",
+      "Member – Bangladesh Gastroenterology Society",
+      "Liver Disease Specialist",
+      "Certified Endoscopy Specialist",
+      "International Digestive Society Member",
+      "Registered Gastroenterologist"
+    ],
+    "speciality": [
+      "Liver Disease",
+      "Ulcer & Gastric Treatment",
+      "Gas/Acidity Problems",
+      "IBS & IBD Treatment",
+      "Endoscopy",
+      "Digestive Disorder Treatment"
+    ],
+    "education": {
+      "degrees": [
+        { "title": "MBBS", "institution": "DMC", "year": 2010 },
+        {
+          "title": "MD (Gastroenterology)",
+          "institution": "BSMMU",
+          "year": 2016
+        }
+      ],
+      "trainings": [
+        "Advanced Endoscopy Course",
+        "Liver Diagnosis Special Training"
+      ]
+    },
+    "hospital": "Holy Family Red Crescent Hospital",
+    "about": "Digestive & liver specialist with expertise in advanced endoscopy and stomach diseases.",
+    "availableLocation": ["Moghbazar", "Holy Family"],
+    "fee": 1000,
+    "awardsAndCertificates": ["Liver Research Excellence Award – 2021"],
+    "days": ["Tue", "Wed", "Thu"],
+    "email": "abdullah.noor@example.com",
+    "phone": "+8801711012200"
+  },
+
+  {
+    "id": 10,
+    "name": "Dr. Mehnaz Rahim",
+    "photo": "https://via.placeholder.com/250x250",
+    "registrations": [
+      "BMDC Registration No: MMC-55211",
+      "Member – Bangladesh Psychiatric Society",
+      "Certified in Mental Health Counseling",
+      "Child Psychiatry Certified",
+      "Behavioral Therapy Specialist",
+      "Registered Psychiatrist"
+    ],
+    "speciality": [
+      "Depression & Anxiety",
+      "Child & Teen Mental Health",
+      "Behavioral Therapy",
+      "Counseling",
+      "Sleep Disorder Treatment",
+      "Stress & Trauma Therapy"
+    ],
+    "education": {
+      "degrees": [
+        {
+          "title": "MBBS",
+          "institution": "Mymensingh Medical College",
+          "year": 2011
+        },
+        { "title": "MD (Psychiatry)", "institution": "BSMMU", "year": 2017 }
+      ],
+      "trainings": [
+        "Child Psychiatry Training",
+        "Cognitive Behavioral Therapy Certification"
+      ]
+    },
+    "hospital": "National Institute of Mental Health",
+    "about": "Mental health expert providing treatment for depression, anxiety and behavioral problems.",
+    "availableLocation": ["Banani", "NIMH"],
+    "fee": 850,
+    "awardsAndCertificates": ["Mental Health Contribution Award – 2020"],
+    "days": ["Sun", "Wed"],
+    "email": "mehnaz.rahim@example.com",
+    "phone": "+8801711013300"
+  }
+]

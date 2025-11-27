@@ -3,7 +3,7 @@ import { FaHeartPulse } from "react-icons/fa6";
 
 const About = () => {
   return (
-    <div className="py-15">
+    <div className="mt-20">
       <div className="text-center mb-10">
         <p className="">Our Service</p>
         <h1 className="text-4xl font-semibold">We Care Our Patients</h1>
