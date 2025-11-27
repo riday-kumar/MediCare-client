@@ -1,36 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 Built With Modern Web Technologies
 
-## Getting Started
+### Next.js (App Router) – Fast, optimized, SEO-friendly React framework with server-side rendering (SSR) and API routes.
 
-First, run the development server:
+### React 18 – Modern UI development with hooks and responsive components.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Tailwind CSS – Utility-first styling for clean, responsive design.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Clerk Authentication System
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Email/Password Login & Signup & Social Login (Google)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### MediCare is a modern and reliable clinic management website. Patients can easily find their desired doctors, view their details, and book appointments directly through the platform. It helps patients get medical services without hassle and makes the entire appointment process smooth and efficient.Doctors can also log in to view and manage the appointments made by their patients.
 
-## Learn More
+## Live Link: https://medi-care-client-blush.vercel.app/
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## GitHub Repo : https://github.com/riday-kumar/MediCare-client.git
