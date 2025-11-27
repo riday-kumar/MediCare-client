@@ -3,7 +3,7 @@ import { NextResponse } from "next/server";
 
 const isProtectedRoute = createRouteMatcher([
   "/doctor-details(.*)",
-  "/my-appointed(.*)",
+  "/my-appointments(.*)",
 ]);
 
 export default clerkMiddleware(async (auth, request) => {

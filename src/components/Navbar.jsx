@@ -12,10 +12,10 @@ const Navbar = () => {
   const links = (
     <>
       <li>
-        <Link href="/about">About</Link>
+        <Link href="/">Home</Link>
       </li>
       <li>
-        <Link href="/all-teachers">All teachers</Link>
+        <Link href="/my-appointments">My Appointments</Link>
       </li>
     </>
   );
@@ -48,7 +48,9 @@ const Navbar = () => {
             {links}
           </ul>
         </div>
-        <a className="btn btn-ghost text-xl">MediCare</a>
+        <Link href="/" className="btn btn-ghost text-xl">
+          MediCare
+        </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">{links}</ul>
