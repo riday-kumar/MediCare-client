@@ -8,7 +8,9 @@ const FewDoctors = () => {
 
   useEffect(() => {
     async function fetchData() {
-      const res = await fetch("http://localhost:5000/doctors");
+      const res = await fetch(
+        "https://medicare-api-server-ejp.vercel.app/doctors"
+      );
       const json = await res.json();
       setData(json);
     }

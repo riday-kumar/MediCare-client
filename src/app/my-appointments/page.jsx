@@ -23,7 +23,7 @@ const AllAppointment = () => {
     const fetchAppointments = async () => {
       try {
         const res = await fetch(
-          `http://localhost:5000/appointment?email=${userEmail}`
+          `https://medicare-api-server-ejp.vercel.app/appointment?email=${userEmail}`
         );
         const data = await res.json();
 

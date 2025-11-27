@@ -35,13 +35,16 @@ export function DoctorDetailsClient({ doctorData }) {
     };
 
     try {
-      const res = await fetch("http://localhost:5000/appointment", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify(appointmentData),
-      });
+      const res = await fetch(
+        "https://medicare-api-server-ejp.vercel.app/appointment",
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(appointmentData),
+        }
+      );
 
       if (res.ok) {
         toast.success("Appointment booked successfully!");
