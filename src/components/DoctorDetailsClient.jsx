@@ -67,18 +67,19 @@ export function DoctorDetailsClient({ doctorData }) {
         </h2>
       </div>
       {/* doctor details */}
-      <div className="min-h-screen w-11/12 lg:w-[75%] mx-auto grid grid-cols-5 gap-10 lg:p-20">
+      <div className="min-h-screen w-11/12 lg:w-[75%] mx-auto grid grid-cols-5 gap-10 py-20 lg:p-20">
         {/* img */}
-        <div className="col-span-1">
+        <div className="col-span-full md:col-span-1">
           <Image
-            src="https://i.ibb.co.com/W4TntDDc/dr-03.png"
+            className="w-full"
+            src={doctorData.photo}
             alt="dr img"
             height={400}
             width={250}
           />
         </div>
         {/* dr details + appointment form */}
-        <div className="col-span-4">
+        <div className="col-span-full md:col-span-4">
           <div className=" space-y-4">
             {/* name */}
             <div>
@@ -133,7 +134,7 @@ export function DoctorDetailsClient({ doctorData }) {
             <p className="text-2xl font-bold text-blue-400 uppercase ">
               Make Your Appointment
             </p>
-            <form onSubmit={handleAppointment} className="w-[50%]">
+            <form onSubmit={handleAppointment} className=" lg:w-[50%]">
               <fieldset className="fieldset *:w-full">
                 <label className="label">Name</label>
                 <input
